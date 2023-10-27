@@ -3,22 +3,12 @@ entries:
   lilnginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-23T21:20:03.899481-04:00"
+    created: "2023-10-27T17:20:27.180492312-04:00"
     description: A Helm chart for Kubernetes asdlfkn
-    digest: foobar
+    digest: 801cb4eda5ecc2e9a852484ee49f36b0e11a6428d820bbc0e8c579c157354707
     name: lilnginx
     type: application
     urls:
     - lilnginx-2.0.0.tgz
     version: 2.0.0
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-10-23T21:20:03.899481-04:00"
-    description: A Helm chart for Kubernetes asdlfkn
-    digest: foobar
-    name: lilnginx
-    type: application
-    urls:
-    - lilnginx-2.0.0.tgz
-    version: 2.0.0-sha256.b2d456464697d3ded305e4e06a259c57d1047f67bc46faad0cec390b2b5af189
-generated: "2023-10-23T21:20:03.899127-04:00"
+generated: "2023-10-27T17:20:27.180143054-04:00"
